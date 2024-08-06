@@ -3,7 +3,7 @@ I'm Gabriel Cruz, MSc in Theoretical Particle Physics with a focus on Beyond Sta
 
 - 🔭 **Master's** in Physics from [UFMG](https://ufmg.br/international-visitors)
 - 🎓 **Teaching License** in Physics from [UFMG](https://ufmg.br/international-visitors)
-- 📚 Completed **Python** and **Data Science** courses at [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+- 📚 Completed **Python** and **Data Science** courses at [Hashtag Treinamentos](https://www.hashtagtreinamentos.com)
 - 🎮 **Gaming** enthusiast
 - 🌱 Currently developing skills in **Machine Learning**
 - 🖥️ Focused on:
