@@ -1,16 +1,15 @@
-## Hi there 👋
+### About Me
+I'm Gabriel Cruz, MSc in Theoretical Particle Physics with a focus on Beyond Standard Model Physics. I'm currently transitioning to a data-driven career, aspiring to become a data scientist.
 
-<!--
-**GabrielCruz-97/GabrielCruz-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Master's** in Physics from [UFMG](https://ufmg.br)
+- 🎓 **Teaching License** in Physics from [UFMG](https://ufmg.br)
+- 📚 Completed **Python** and **Data Science** courses at [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+- 🎮 **Gaming** enthusiast
+- 🌱 Currently developing skills in **Machine Learning**
+- 🖥️ Focused on:
+  <div style="display: inline">
+    &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me On
+- [LinkedIn](https://www.linkedin.com/in/gabriel-cruz-4205ba317/)
