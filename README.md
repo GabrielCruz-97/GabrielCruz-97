@@ -1,5 +1,5 @@
 ### About Me
-I'm Gabriel Cruz, MSc in Theoretical Particle Physics with a focus on Beyond Standard Model Physics. I'm currently transitioning to a data-driven career, aspiring to become a data scientist.
+I'm Gabriel Cruz, MSc in Theoretical Particle Physics working with Data Analysis.
 
 - 🔭 **Master's** in Physics from [UFMG](https://ufmg.br/international-visitors)
 - 🎓 **Teaching License** in Physics from [UFMG](https://ufmg.br/international-visitors)
