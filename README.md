@@ -3,7 +3,7 @@ I'm Gabriel Cruz, MSc in Theoretical Particle Physics working with Data Analysis
 
 - 🔭 **Master's** in Physics from [UFMG](https://ufmg.br/international-visitors)
 - 🎓 **Teaching License** in Physics from [UFMG](https://ufmg.br/international-visitors)
-- 📚 Completed **Python**, **Data Science**, and **SQL** courses at [Hashtag Treinamentos](https://www.hashtagtreinamentos.com)
+- 📚 Completed **Python** and **SQL** courses at [Hashtag Treinamentos](https://www.hashtagtreinamentos.com)
 - 🎮📖**Gaming** and **Reading** enthusiast
 - 🖥️ Focused on:
   <div style="display: inline">
